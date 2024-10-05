@@ -1,1 +1,1 @@
-# LAB-1-
+Train a CNN on the SVHN Dataset for Classification
